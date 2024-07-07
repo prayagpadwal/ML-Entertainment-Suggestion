@@ -25,10 +25,10 @@ python app/main.py
  ```
 
 ### Project Structure
-app: Contains the Flask application
-data: Contains the dataset
-models: Contains model training and evaluation scripts
-scripts: Contains data preprocessing and feedback collection scripts
+app: Contains the Flask application <br>
+data: Contains the dataset<br>
+models: Contains model training and evaluation scripts<br>
+scripts: Contains data preprocessing and feedback collection scripts<br>
 
 ### Contributing
 Feel free to submit issues or pull requests.
