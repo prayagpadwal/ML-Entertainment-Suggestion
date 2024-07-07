@@ -1,1 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Recommendations</h1>
+<ul>
+    {% for recommendation in recommendations %}
+        <li>{{ recommendation }}</li>
+    {% endfor %}
+</ul>
+<a href="/">Back to Home</a>
+{% endblock %}
 
