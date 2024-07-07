@@ -1,1 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Entertainment Suggestion</h1>
+<form method="post" action="/recommend">
+    <label for="mood">Mood:</label>
+    <input type="text" id="mood" name="mood" required>
+    <label for="time">Available Time:</label>
+    <input type="text" id="time" name="time" required>
+    <button type="submit">Get Recommendations</button>
+</form>
+{% endblock %}
 
