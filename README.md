@@ -7,5 +7,5 @@ This project provides movie, web series, and book recommendations based on the u
 Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/ML-Entertainment-Suggestion.git
+git clone https://github.com/prayagpadwal/ML-Entertainment-Suggestion.git
 cd ML-Entertainment-Suggestion
