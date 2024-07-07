@@ -9,20 +9,20 @@ Clone the repository:
 ```sh
 git clone https://github.com/prayagpadwal/ML-Entertainment-Suggestion.git
 cd ML-Entertainment-Suggestion
-```sh
+ ```
 
 ### Install the required libraries:
 
 ```sh
 pip install -r requirements.txt
-```sh
+ ```
 
 ### Usage
 Run the Flask app:
 
 ```sh
 python app/main.py
-```sh
+ ```
 
 ### Project Structure
 app: Contains the Flask application
