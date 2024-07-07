@@ -2,7 +2,7 @@
 
 This project provides movie, web series, and book recommendations based on the user's mood and available time using machine learning.
 
-## Installation
+### Installation
 
 Clone the repository:
 
@@ -10,22 +10,22 @@ Clone the repository:
 git clone https://github.com/prayagpadwal/ML-Entertainment-Suggestion.git
 cd ML-Entertainment-Suggestion
 
-Install the required libraries:
+### Install the required libraries:
 
 ```sh
 pip install -r requirements.txt
 
-Usage
+### Usage
 Run the Flask app:
 
 ```sh
 python app/main.py
 
-Project Structure
+### Project Structure
 app: Contains the Flask application
 data: Contains the dataset
 models: Contains model training and evaluation scripts
 scripts: Contains data preprocessing and feedback collection scripts
 
-Contributing
+### Contributing
 Feel free to submit issues or pull requests.
